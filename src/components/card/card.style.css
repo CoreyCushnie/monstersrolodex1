@@ -1,0 +1,21 @@
+.card-container {
+    display: flex;
+    flex-direction: column;
+    background: rgba(126, 146, 198, 0.749);
+    border-radius: 20px;
+    box-shadow: 1px 1px 10px 10px rgba(21, 20, 20, 0.365);
+    padding: 20px;
+    cursor: pointer;
+    -moz-osx-font-smoothing: grayscale;
+    backface-visibility: hidden;
+    transform: translateZ(0);
+    transition: transform 0.3s ease-out;
+    transform: scale(0.9);
+
+}
+
+.card-container:hover {
+    transform: scale(1);
+    box-shadow: 1px 1px 20px 10px rgba(5, 255, 126, 0.564);
+}
+
