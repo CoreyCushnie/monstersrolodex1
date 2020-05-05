@@ -1,2 +1,2 @@
-### Monsters Rolodex
-# React Course project 1
+## Monsters Rolodex
+#### React Course project 1
