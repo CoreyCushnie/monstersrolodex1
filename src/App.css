@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  
 }
 
 h2 {
@@ -19,6 +20,7 @@ h1{
 body {
   max-height: fit-content;
   background: radial-gradient(circle, rgb(171, 92, 240) 0%, rgb(123, 245, 157) 100%);
+  display: block;
   
 }
 
